@@ -1,0 +1,41 @@
+body{font-family: 'Bebas Neue', sans-serif;
+    
+    }
+    
+#denis{color: #fffaf0;
+    font-family: 'Pacifico', cursive;
+    background: linear-gradient(300deg, #00bfff,#0095FF,#fffaf0 );
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;}
+
+    .program{width: 200px;
+    float: left;}
+
+    .baking{float: left;}
+
+    h2{text-align: center;
+    color:#0095FF;}
+
+    h3{color: #0095FF;}
+
+    .fork{float: left;}
+
+    #grid{display: grid;
+    grid-template-columns: 400px 400px 400px  ;}
+
+    .interest{float: left;}
+.christ{float: left;}
+
+.parent{display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left ;
+    row-gap: 2rem;
+}
+
+#foot{background: linear-gradient(300deg, #00bfff,#0095FF,#fffaf0 );
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+padding-bottom: 2px;}
